@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Extra Fields
+.DS_Store
+data/
+results/
+src/src.Rproj
+src/renv/sandbox/
+src/renv/profiles/swine1/renv/.gitignore
+src/renv/profile
