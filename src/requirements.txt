@@ -1,0 +1,4 @@
+pandas==2.2.1
+numpy==1.26.4
+scikit-network==0.32.1
+networkx==2.7.1
