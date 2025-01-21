@@ -12,6 +12,7 @@ nextflow run nf-core/rnaseq \
   --extra_salmon_quant_args '--seqBias --gcBias' \
   --outdir . \
   -c config.conf \
+  -r 3.10.1 \
   -resume \
   -bg
    
