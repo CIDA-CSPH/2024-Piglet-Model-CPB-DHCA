@@ -33,7 +33,7 @@ CPBLind = CPB/DHCA + Lin (Linrodostat analyses ended up not included in the publ
 
 ### GEO/SRA
 
-The raw fastq files are currently being uploaded to GEO/SRA. A link will be provided when that process is complete.
+The raw fastq files are deposited in GEO/SRA under [GSE294547](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE294547).
 
 ### Funding
 
